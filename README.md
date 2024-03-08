@@ -1,4 +1,4 @@
-# Foodwheel
+# FoodWheel
 
 ## Project Goals
 
